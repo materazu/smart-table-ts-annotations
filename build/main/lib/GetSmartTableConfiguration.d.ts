@@ -1,2 +1,2 @@
 import 'reflect-metadata';
-export declare function GetSmartTableConfiguration(entity: any): any[];
+export declare function GetSmartTableConfiguration(entity: any): {};
