@@ -1,6 +1,6 @@
 {
   "name": "@materazu/smart-table-ts-annotations",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Typescript Annotations for entity to generate ngx-smart-table configurations",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
